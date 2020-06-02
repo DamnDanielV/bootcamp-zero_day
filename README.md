@@ -1,1 +1,1 @@
-# This proyect is about basics steps with Vagrant, Linux, Git
+# This is a project about Emacs, Vi, Linux, Git and a commands
