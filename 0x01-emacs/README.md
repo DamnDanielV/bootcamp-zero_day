@@ -1,0 +1,1 @@
+This project is all about Emacs and some commands
